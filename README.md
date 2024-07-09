@@ -166,7 +166,7 @@
 				<h3 align="center">LUC-PROFESORES</h3>
 				<div align="center">  
 					<a href='' >
-						<img src="http://imgfz.com/i/NxtJVrz.png" height="100%"  />
+						<img src="https://luc-uni.vercel.app" height="100%"  />
 					</a>
 					<br>
 					<br>
