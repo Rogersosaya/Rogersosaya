@@ -183,7 +183,7 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">Kungfu-uni</h3>
-				<div align="center" >  
+				<div align="center" >
 					<a href='http://imgfz.com/i/FGiQXnx.png' target="_blank">
 						<img src="http://imgfz.com/i/FGiQXnx.png" alt="project 2" height="100%" />
 					</a>
@@ -202,13 +202,13 @@
             <td width="50%">
                 <h3 align="center">Núcleo</h3>
                 <div align="center">  
-                    <a href='' target="_blank">
+                    <a href='http://imgfz.com/i/5hP7C2I.png' target="_blank">
                         <img src="http://imgfz.com/i/5hP7C2I.png" alt="project 4" width="85%" height="40%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/mitp7/Lidar_Scanning_System" target="_blank">
+                        <a href="https://github.com/Rogersosaya/kungfu-uni" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  	
                     </p>
