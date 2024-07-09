@@ -165,7 +165,7 @@
 			<td width="50%">
 				<h3 align="center">LUC-PROFESORES</h3>
 				<div align="center">  
-					<a href='https://github.com/Rogersosaya/luc-oficial' >
+					<a href='https://luc-uni.vercel.app' >
 						<img src="http://imgfz.com/i/JW7nRve.png" height="100%"  />
 					</a>
 					<br>
