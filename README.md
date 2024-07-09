@@ -171,7 +171,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/mitp7/Surely_Insured" target="_blank">
+						<a href="https://github.com/Rogersosaya/luc-oficial" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a> 
 					</p>
