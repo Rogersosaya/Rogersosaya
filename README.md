@@ -147,6 +147,10 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
       alt="git"/>
   </a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+      alt="git"/>
+  </a>
 </p>
 <br>.
 
