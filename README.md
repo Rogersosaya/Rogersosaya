@@ -190,7 +190,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/mitp7/We_Town" target="_blank">
+						<a href="https://github.com/Rogersosaya/kungfu-uni" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 					</p>
@@ -208,7 +208,7 @@
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/Rogersosaya/kungfu-uni" target="_blank">
+                        <a href="https://github.com/Rogersosaya/nucleo" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  	
                     </p>
