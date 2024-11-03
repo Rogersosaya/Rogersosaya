@@ -176,7 +176,7 @@
 					<br>
 					<p>
 						<a href="https://github.com/Rogersosaya/luc-oficial" target="_blank">
-							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
+							        Ver página
 						</a> 
 					</p>
 					<p><strong>HTML, CSS,Typescript, Tailwind CSS, React, Nextjs, PostgreSQL, Docker</strong></p>
@@ -195,8 +195,7 @@
 					<br>
 					<p>
 						<a href="https://semanafiis.com" target="_blank">
-							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
-
+							       Ver página
 						</a>
 					</p>
 					 <p><strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React, NativeScript, Next.js, PostgreSQL, Docker</strong></p>
@@ -214,8 +213,7 @@
                     <br>
                     <p>
                         <a href="https://dadan.com.pe/" target="_blank">
-							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
-
+							       Ver página
 						</a>  	
                     </p>
                     <p><strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React, Redux, Firebase</strong></p>
