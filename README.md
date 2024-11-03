@@ -188,8 +188,8 @@
 			<td width="50%">
 				<h3 align="center">SEMANA FIIS</h3>
 				<div align="center" >
-					<a href='https://i.ibb.co/YQHcn5z/luc-profesores.png' target="_blank">
-						<img src="https://i.ibb.co/YQHcn5z/luc-profesores.png" alt="project 2" height="100%" />
+					<a href='https://i.ibb.co/HTCSG0d/semanafiis.png' target="_blank">
+						<img src="https://i.ibb.co/HTCSG0d/semanafiis.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
