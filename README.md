@@ -186,20 +186,20 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Kungfu-uni</h3>
+				<h3 align="center">SEMANA FIIS</h3>
 				<div align="center" >
-					<a href='http://imgfz.com/i/FGiQXnx.png' target="_blank">
-						<img src="http://imgfz.com/i/FGiQXnx.png" alt="project 2" height="100%" />
+					<a href='https://i.ibb.co/YQHcn5z/luc-profesores.png' target="_blank">
+						<img src="https://i.ibb.co/YQHcn5z/luc-profesores.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Rogersosaya/kungfu-uni" target="_blank">
+						<a href="https://semanafiis.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 					</p>
-					 <p><strong>HTML, Tailwind CSS, Laravel, MariaDB</strong></p>
-					<p>Plataforma donde los jurados pueden puntuar a los participantes de un torneo de sanda y taolu</p>
+					 <p><strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React, NativeScript, Next.js, PostgreSQL, Docker</strong></p>
+					<p>Plataforma web para las Olimpiadas FIIS de la UNI, con roles de usuario y administrador.</p>
 				</div>
         </tr>
 	    <tr>
