@@ -176,7 +176,7 @@
 					<br>
 					<p>
 						<a href="https://github.com/Rogersosaya/luc-oficial" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
 						</a> 
 					</p>
 					<p><strong>HTML, CSS,Typescript, Tailwind CSS, React, Nextjs, PostgreSQL, Docker</strong></p>
@@ -195,7 +195,8 @@
 					<br>
 					<p>
 						<a href="https://semanafiis.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
+
 						</a>
 					</p>
 					 <p><strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React, NativeScript, Next.js, PostgreSQL, Docker</strong></p>
@@ -204,20 +205,21 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Núcleo</h3>
-                <div align="center">  
-                    <a href='http://imgfz.com/i/5hP7C2I.png' target="_blank">
-                        <img src="http://imgfz.com/i/5hP7C2I.png" alt="project 4" width="85%" height="40%" />
+                <h3 align="center">DADAN</h3>
+                <div align="center">
+                    <a href='https://i.ibb.co/2sT8QtF/dadan.png' target="_blank">
+                        <img src="https://i.ibb.co/2sT8QtF/dadan.png" alt="project 4" width="85%" height="40%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/Rogersosaya/nucleo" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                        <a href="https://dadan.com.pe/" target="_blank">
+							        <img src="https://img.shields.io/badge/Ver%20p%C3%A1gina-lightgrey?style=for-the-badge" />
+
 						</a>  	
                     </p>
-                    <p><strong>React, Nextjs, PostgreSQL, Typescript, Docker</strong></p>
-		    <p>Landing Page para que los estudiantes conozcan más del Centro Cultural Nuclear.</p>
+                    <p><strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React, Redux, Firebase</strong></p>
+		    <p>Tienda online completa de la empresa Dadan con implementación de la API de Google Maps para la dirección.</p>
                 </div>	
             </td>
         </tr>
